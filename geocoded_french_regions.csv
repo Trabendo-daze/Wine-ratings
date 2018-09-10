@@ -1,0 +1,73 @@
+lat,long,accuracy,formatted_address,address_type,status,index
+47.0831185,4.9145067,establishment,"15 Place de la Mairie, 21700 Corgoloin, France","establishment,food,point_of_interest",OK,1
+47.1750801,4.955768,establishment,"Rue de la Montagne, 21640 Vougeot, France","establishment,point_of_interest",OK,2
+47.185496,4.952888,locality,"21220 Chambolle-Musigny, France","locality,political",OK,3
+46.833678,4.721636999999999,locality,"71640 Mercurey, France","locality,political",OK,4
+46.7844158,4.8624466,establishment,"2 Prom. Sainte-Marie, 71100 Chalon-sur-Saône, France","establishment,food,point_of_interest,restaurant",OK,5
+47.048887,4.86904,locality,"21200 Chorey-les-Beaune, France","locality,political",OK,6
+48.3181795,7.441624099999999,colloquial_area,"Alsace, France","colloquial_area,political",OK,7
+47.270302,4.988667,locality,"21160 Marsannay-la-Côte, France","locality,political",OK,8
+47.225962,4.968738999999999,locality,"21220 Gevrey-Chambertin, France","locality,political",OK,9
+47.329583,2.839867,locality,"18300 Sancerre, France","locality,political",OK,10
+47.137985,4.9503199,locality,"21700 Nuits-Saint-Georges, France","locality,political",OK,11
+47.02603000000001,4.840004,locality,"21200 Beaune, France","locality,political",OK,12
+38.6213413,-90.21295549999999,bar,"2017 Chouteau Ave, St. Louis, MO 63103, USA","bar,establishment,food,point_of_interest,restaurant",OK,13
+47.0801536,2.0427297,establishment,"20 Route d'Issoudun, 36260 Reuilly, France","establishment,food,point_of_interest",OK,14
+40.727941,-73.99285499999999,establishment,"399 Lafayette St, New York, NY 10003, USA","establishment,food,liquor_store,point_of_interest,store",OK,15
+46.912833,4.696534,locality,"21590 Santenay, France","locality,political",OK,16
+46.78307,4.742662999999999,locality,"71640 Givry, France","locality,political",OK,17
+16.2379493,-61.57122760000001,establishment,"Lotissement Agat ImmeubleTechnopolis Jarry, Baie Mahault 97122, Guadeloupe","establishment,food,point_of_interest,restaurant",OK,18
+45.490952,-73.650679,establishment,"6900 Boulevard Décarie Suite #3400, Côte Saint-Luc, QC H3X 2T8, Canada","establishment,point_of_interest,store",OK,19
+47.169742,4.919957,establishment,"Hameau de Corboin, 21700 Nuits-Saint-Georges, France","establishment,food,point_of_interest",OK,20
+46.910735,4.656561,locality,"71150 Dezize-lès-Maranges, France","locality,political",OK,21
+47.225962,4.968738999999999,locality,"21220 Gevrey-Chambertin, France","locality,political",OK,22
+47.06605,4.886973999999999,locality,"21550 Ladoix-Serrigny, France","locality,political",OK,23
+36.1460508,-95.9098937,establishment,"5941 E 12th St, Tulsa, OK 74112, USA","establishment,point_of_interest,real_estate_agency",OK,24
+47.159051,4.954572,locality,"Vosne-Romanée, France","locality,political",OK,25
+47.0831185,4.9145067,establishment,"15 Place de la Mairie, 21700 Corgoloin, France","establishment,food,point_of_interest",OK,26
+40.3506884,-74.66276309999999,establishment,"49 Hulfish St, Princeton, NJ 08542, USA","establishment,food,liquor_store,point_of_interest,store",OK,27
+43.286519,-89.707943,bar,"7876 WI-188, Prairie Du Sac, WI 53578, USA","bar,establishment,food,liquor_store,point_of_interest,store",OK,28
+47.00151,4.781618,locality,"21190 Volnay, France","locality,political",OK,29
+NA,NA,NA,NA,NA,ZERO_RESULTS,30
+46.937992,4.729560999999999,locality,"21190 Chassagne-Montrachet, France","locality,political",OK,31
+47.065692,4.85994,locality,"Aloxe-Corton, France","locality,political",OK,32
+47.2320769,2.488352,locality,"18510 Menetou-Salon, France","locality,political",OK,33
+47.0525047,4.3837215,colloquial_area,"Burgundy, France","colloquial_area,political",OK,34
+38.299478,-122.285282,bar,"1000 Main St Suite 120, Napa, CA 94559, USA","bar,establishment,food,liquor_store,point_of_interest,store",OK,35
+47.063402,4.817946,locality,"21420 Savigny-lès-Beaune, France","locality,political",OK,36
+46.7622043,5.5258233,establishment,"41 Rue Saint-Vincent, 39140 Arlay, France","establishment,liquor_store,point_of_interest,store",OK,37
+47.195673,4.962496,locality,"21220 Morey-Saint-Denis, France","locality,political",OK,38
+47.00931,4.795325,locality,"Pommard, France","locality,political",OK,39
+47.084575,4.851313,locality,"21420 Pernand-Vergelesses, France","locality,political",OK,40
+NA,NA,NA,NA,NA,ZERO_RESULTS,41
+NA,NA,NA,NA,NA,ZERO_RESULTS,42
+47.1042616,4.875745999999999,establishment,"8 Route de Magny, 21700 Villers-la-Faye, France","establishment,lodging,point_of_interest",OK,43
+47.24534,4.972309,locality,"21220 Fixin, France","locality,political",OK,44
+38.489543,-81.27539469999999,locality,"Corton, WV 25045, USA","locality,political",OK,45
+NA,NA,NA,NA,NA,ZERO_RESULTS,46
+30.0459294,-90.26062499999999,establishment,"45 Echezeaux Dr, Kenner, LA 70065, USA","establishment,point_of_interest",OK,47
+29.7959157,-95.3986589,bar,"1344 Yale St, Houston, TX 77008, USA","bar,establishment,food,point_of_interest",OK,48
+40.7684892,-73.9589049,establishment,"1355 2nd Ave, New York, NY 10021, USA","establishment,food,liquor_store,point_of_interest,store",OK,49
+47.176617,4.962975,locality,"Vougeot, France","locality,political",OK,50
+NA,NA,NA,NA,NA,ZERO_RESULTS,51
+46.5064494,4.7978349,establishment,"Le Bourg, Lieu-dit Le Pâquier, 71260 Cruzille, France","establishment,food,point_of_interest",OK,52
+47.465224,5.275158999999999,locality,"21310 Bèze, France","locality,political",OK,53
+NA,NA,NA,NA,NA,ZERO_RESULTS,54
+NA,NA,NA,NA,NA,ZERO_RESULTS,55
+40.721402,-74.004426,establishment,"375b Canal St, New York, NY 10013, USA","establishment,food,liquor_store,point_of_interest,store",OK,56
+47.874593,3.980885,locality,"89700 Épineuil, France","locality,political",OK,57
+38.2566533,-122.4370999,establishment,"1620 Carneros Meadows Ln, Sonoma, CA 95476, USA","establishment,food,liquor_store,point_of_interest,store",OK,58
+46.875041,4.740823,locality,"71150 Rully, France","locality,political",OK,59
+NA,NA,NA,NA,NA,ZERO_RESULTS,60
+43.570642,3.877218,establishment,"Domaine de Manse Avenue Paysagère CS 70026 Lattes Cedex, 34973, France","establishment,point_of_interest",OK,61
+47.185496,4.952888,locality,"21220 Chambolle-Musigny, France","locality,political",OK,62
+45.4688133,-73.8281329,establishment,"9 Place Frontenac, Pointe-Claire, QC H9R 4Z7, Canada","establishment,food,point_of_interest,restaurant",OK,63
+45.5407763,-73.62235199999999,bar,"7659 Rue Saint-Denis, Montréal, QC H2R 2E7, Canada","bar,establishment,food,point_of_interest,restaurant",OK,64
+47.71398199999999,3.665354999999999,locality,"89290 Irancy, France","locality,political",OK,65
+NA,NA,NA,NA,NA,ZERO_RESULTS,66
+NA,NA,NA,NA,NA,ZERO_RESULTS,67
+NA,NA,NA,NA,NA,ZERO_RESULTS,68
+44.1672771,-73.2540111,locality,"Vergennes, VT 05491, USA","locality,political",OK,69
+47.02603000000001,4.840004,locality,"21200 Beaune, France","locality,political",OK,70
+48.7142277,2.1452278,locality,"91190 Saint-Aubin, France","locality,political",OK,71
+47.3020954,0.6921741,colloquial_area,"Touraine, France","colloquial_area,political",OK,72
